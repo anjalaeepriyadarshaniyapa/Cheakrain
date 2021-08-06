@@ -4,6 +4,7 @@ Data_Base_Name =>silzee
 ![image](https://user-images.githubusercontent.com/55070469/128456830-0162791d-a724-4ee6-89e1-9c4ae5dc28bf.png)
 
 2.Then,run the file localHost (run the XAMPP,workbench etc.)
+
 ![image](https://user-images.githubusercontent.com/55070469/128457005-f96951f5-40fe-47da-98f4-e4224cd6718b.png)
 
 3.Firstly,Select the Sutable Device
